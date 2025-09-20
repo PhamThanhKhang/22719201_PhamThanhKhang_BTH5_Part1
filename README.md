@@ -1,7 +1,5 @@
 ﻿# NODE-MVC-CRUD-PRODUCT-SUPPLIER
-# Node.js MVC CRUD Product - Supplier
-
-## 📖 Giới thiệu
+Giới thiệu
 Dự án này được xây dựng bằng Node.js + Express + MongoDB (Mongoose) theo mô hình MVC.  
 Ứng dụng quản lý sản phẩm và nhà cung cấp, có chức năng xác thực người dùng bằng cookie + session.  
 
@@ -20,4 +18,5 @@ Nhà cung cấp
 - Thông tin: `tên`, `giá`, `số lượng`, `nhà cung cấp`
 - Tìm kiếm sản phẩm theo tên
 - Lọc sản phẩm theo nhà cung cấp
+
 
